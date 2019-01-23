@@ -16,5 +16,5 @@ This is a supplementary tutorial to the methodology described in [N.K. Chlis et 
 4. Open and run the notebook
 
 **List of materials**
-1. tutorial_ifcseq_mouse.ipynb: The notebook presenting IFC-Seq
+1. [tutorial_ifcseq_mouse.ipynb](./tutorial_ifcseq_mouse.ipynb): The notebook presenting IFC-Seq
 2. [ifcseq_data.zip](https://hmgubox.helmholtz-muenchen.de/f/112c744ec4504dfa84f5/?dl=1): the data necessary to run the notebook
