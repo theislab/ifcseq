@@ -1,4 +1,3 @@
-
 # IFC-Seq: predicting gene expression for Imaging Flow Cytometry data
 
 ![logo](fig1.png)
@@ -11,10 +10,12 @@ This is a supplementary tutorial to the methodology described in [N.K. Chlis et 
 
 **Instructions**
 1. Download the notebook file: [tutorial_ifcseq_mouse.ipynb](./tutorial_ifcseq_mouse.ipynb)
-2. Download the data from [here](https://hmgubox.helmholtz-muenchen.de/f/112c744ec4504dfa84f5/?dl=1)
+2. Download the data from [here](https://drive.google.com/file/d/1QgeHBPkSLepjE4LkFQFv0TsLwOguscCB/view?usp=sharing)
 3. Unzip data.zip into the same folder as tutorial_ifcseq_mouse.ipynb
 4. Open and run the notebook
 
 **List of materials**
 1. [tutorial_ifcseq_mouse.ipynb](./tutorial_ifcseq_mouse.ipynb): The notebook presenting IFC-Seq
-2. [ifcseq_data.zip](https://hmgubox.helmholtz-muenchen.de/f/112c744ec4504dfa84f5/?dl=1): the data necessary to run the notebook
+1. [CNN_train.py](./CNN_train.py): Python code used to train the CNN keras model which is used in the above notebook. For convenience, a pre-trained model is availabe in ifcseq_mouse_data.zip (see below)
+3. [ifcseq_mouse_data.zip](https://drive.google.com/file/d/1QgeHBPkSLepjE4LkFQFv0TsLwOguscCB/view?usp=sharing): The mouse data and pre-trained models necessary to run the notebook
+4. [ifcseq_human_data.zip](https://drive.google.com/file/d/1zTMjG-TT8qins_Irt1CLitusBiCqgD5k/view?usp=sharing): Additional human data used in the publication.
