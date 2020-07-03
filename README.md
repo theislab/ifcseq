@@ -4,9 +4,9 @@
 
 **Description**
 
-With IFC-Seq we couple two distinct modalities of single-cell data: **(1) Single Cell Transcriptomics (SCT)** and **(2) Imaging Flow Cytometry (IFC)**.  Both modalities are aligned using common surface markers (CD34 and FcgR in this example). By leveraging both views at the same time, IFC-Seq is able to predict gene expression at the single-cell level for data acquired from IFC experiments.
+With IFC-seq we couple two distinct modalities of single-cell data: **(1) Single Cell Transcriptomics (SCT)** and **(2) Imaging Flow Cytometry (IFC)**.  Both modalities are aligned using common surface markers (CD34 and FcgR in this example). By leveraging both views at the same time, IFC-Seq is able to predict gene expression at the single-cell level for data acquired from IFC experiments.
 
-This is a supplementary tutorial to the methodology described in [N.K. Chlis et al., 2019](https://www.helmholtz-muenchen.de/icb/index.html). The step-by-step tutorial is presented in tutorial_ifcseq_mouse.ipynb.
+A step-by-step tutorial on using IFC-seq is presented in tutorial_ifcseq_mouse.ipynb.
 
 **Instructions**
 1. Download the notebook file: [tutorial_ifcseq_mouse.ipynb](./tutorial_ifcseq_mouse.ipynb)
